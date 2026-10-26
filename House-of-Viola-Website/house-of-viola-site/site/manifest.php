@@ -1,0 +1,1 @@
+{"name":"House of Viola","short_name":"House of Vio","id":"/","start_url":"/index.php","scope":"/","display":"standalone","background_color":"#0c0c0d","theme_color":"#d4a853","icons":[{"src":"/manus-storage/onlineshopnow/uploads/site/a97b65ad8a820564.png","type":"image/png","purpose":"any maskable"}]}
